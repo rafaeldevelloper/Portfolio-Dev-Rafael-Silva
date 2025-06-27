@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* index.css ou App.css */
+html, body{
+  scroll-behavior: smooth;
+}
