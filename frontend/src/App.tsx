@@ -211,7 +211,7 @@ function App() {
           <img src={ImagePerfil} alt="Perfil" className="w-40 h-40 md:w-48 md:h-48 object-cover rounded-full border-4 border-blue-600" loading="lazy" />
           <div className="text-center md:text-left">
             <h2 className="text-3xl font-bold mb-4">Olá, meu nome é Rafael Silva</h2>
-            <p className="mb-4 max-w-xl">Sou um desenvolvedor apaixonado por tecnologia, especializado em ReactJs, TypeScript, NodeJs e soluções modernas.</p>
+            <p className="mb-4 max-w-xl">Sou um desenvolvedor apaixonado por tecnologia, especializado em ReactJs, TypeScript, NodeJs e soluções modernas. Foco em Metodologias Ágeis (Scrum e Kanbam)</p>
             <a href={Cv} download className="inline-block bg-blue-600 px-6 py-2 rounded-md font-medium hover:bg-blue-500 transition">Baixar CV</a>
           </div>
         </div>
