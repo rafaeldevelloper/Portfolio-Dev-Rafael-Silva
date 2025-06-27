@@ -26,4 +26,4 @@ Sinta-se à vontade para explorar o portfólio e entrar em contato para parceria
 
 ---
 
-**Contato:** [seu-email@exemplo.com] | [LinkedIn](https://www.linkedin.com/in/seuperfil)
+**Contato:** [dev.rafaelsilva01@gmail.com] | [LinkedIn](https://www.linkedin.com/in/dev-rafaelsilva/)
