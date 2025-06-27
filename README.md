@@ -15,8 +15,7 @@ Meu objetivo é apresentar um histórico claro do meu trabalho, evidenciando min
 ### Tecnologias e Competências
 
 - Desenvolvimento Front-end e Back-end  
-- Integração com APIs e serviços web  
-- Automação de processos com Inteligência Artificial  
+- Integração com APIs e serviços web   
 - Controle de versão com Git e GitHub  
 - Metodologias Ágeis (Scrum, Kanban)  
 
