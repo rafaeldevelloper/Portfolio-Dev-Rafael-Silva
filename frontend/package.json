@@ -1,5 +1,4 @@
 {
-  "homepage": "https://rafaeldevelloper.github.io/Portfolio-Dev-Rafael-Silva",
   "name": "frontend3",
   "private": true,
   "version": "0.0.0",
@@ -8,9 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "npm run dev",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.10",
